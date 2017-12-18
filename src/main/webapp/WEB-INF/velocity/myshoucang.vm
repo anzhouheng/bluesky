@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>蓝色天边涂像空间</title>
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/myshoucang.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,minimum-scale=1.0, user-scalable=no">
+	<script src="js/jquery-1.8.3.min.js"></script>
+	<script src="js/myshoucang.js"></script>
+</head>
+<body>
+	<div class="outer">
+		<div class="head">
+			我的收藏
+			<div id="hui"></div>
+		</div>
+		<ul>
+			<li>
+				<p>拍摄珠宝的正确方式</p>
+				<span class="date"></span>
+			</li>
+			<li>
+				<p><em>￥300.00</em>加急logo名片设计，仅接受比稿!</p>
+				<span class="date"></span>
+			</li>
+			<li>
+				<p><em>￥300.00</em>加急logo名片设计，仅接受比稿!</p>
+				<span class="date"></span>
+			</li>
+			<li>
+				<p>拍摄珠宝的正确方式</p>
+				<span class="date"></span>
+			</li>
+			<li>
+				<p>拍摄珠宝的正确方式</p>
+				<span class="date"></span>
+			</li>
+		</ul>
+	</div>
+
+</body>
+</html>

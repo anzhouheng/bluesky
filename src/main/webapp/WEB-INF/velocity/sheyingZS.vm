@@ -1,0 +1,206 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>蓝色天边涂像空间</title>
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,minimum-scale=1.0, user-scalable=no">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/sheyingZS.css">
+	<script src="jquery/jquery.min.js"></script>
+	<script src="js/sheyingZS.js"></script>
+</head>
+<body>
+	<div class="outer">
+		<div class="top">
+			<div class="left">
+				<img src="img/fabu/btn_3_n@2x.png" alt="">
+			</div>
+			<div class="nav">
+				<input type="text" name="" value="搜索会员或关键字">	
+			</div>
+			<div class="right">
+				<img src="img/fabu/btn_1_n@2x.png" alt="">
+			</div>
+		</div>
+		<div class="tit">
+			<div class="titouter">
+				<span class="select">摄影展示</span>
+				<span>设计作品</span>
+				<span>技术教程</span>
+				<span>会员展示</span>
+			</div>
+		</div>
+		<div class="conouter">
+			<div class="con">
+					<div class="con-left">
+						<div class="con-left1">
+							<img src="img/fabu/fabu1.jpg" alt="" id="img1">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+						<div class="con-left1">
+							<img src="img/fabu/fabu2.jpg" alt="" id="img2">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+						111
+					</div>
+					<div class="con-right">
+						<div class="con-left1">
+							<img src="img/fabu/fabu3.jpg" alt="" id="img3">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+						<div class="con-left1">
+							<img src="img/fabu/fabu4.jpg" alt="" id="img4">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+					</div>
+			</div>
+			<div class="con">
+					<div class="con-left">
+						<div class="con-left1">
+							<img src="img/fabu/fabu1.jpg" alt="" id="img1">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+						<div class="con-left1">
+							<img src="img/fabu/fabu2.jpg" alt="" id="img2">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+						222
+					</div>
+					<div class="con-right">
+						<div class="con-left1">
+							<img src="img/fabu/fabu3.jpg" alt="" id="img3">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+						<div class="con-left1">
+							<img src="img/fabu/fabu4.jpg" alt="" id="img4">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+					</div>
+			</div>
+			<div class="con">
+					<div class="con-left">
+						<div class="con-left1">
+							<img src="img/fabu/fabu1.jpg" alt="" id="img1">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+						<div class="con-left1">
+							<img src="img/fabu/fabu2.jpg" alt="" id="img2">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+						333
+					</div>
+					
+					<div class="con-right">
+						<div class="con-left1">
+							<img src="img/fabu/fabu3.jpg" alt="" id="img3">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+						<div class="con-left1">
+							<img src="img/fabu/fabu4.jpg" alt="" id="img4">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+					</div>
+			</div>
+			<div class="con">
+					<div class="con-left">
+						<div class="con-left1">
+							<img src="img/fabu/fabu1.jpg" alt="" id="img1">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+						<div class="con-left1">
+							<img src="img/fabu/fabu2.jpg" alt="" id="img2">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+						444
+					</div>
+					<div class="con-right">
+						<div class="con-left1">
+							<img src="img/fabu/fabu3.jpg" alt="" id="img3">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+						<div class="con-left1">
+							<img src="img/fabu/fabu4.jpg" alt="" id="img4">
+							<div class="con-left1-foot">
+								<img src="img/fabu/IMG_3@2x.png" alt="">
+								<p>拍摄珠宝的正确方式</p>
+								<span>蓝色天边</span>
+							</div>
+						</div>
+					</div>
+			</div>
+		</div>
+		
+		<div class="caidan" id="caidan">
+			
+				<img src="img/fabu/btn_7_n@2x.png" alt="" id="caidan1">
+				<img src="img/fabu/btn_6_n@2x.png" alt="" id="caidan2">
+				<img src="img/fabu/btn_5_n@2x.png" alt="" id="caidan3">
+				<img src="img/fabu/btn_4_n@2x.png" alt="" id="caidan4">
+			
+		</div>
+	</div>
+
+</body>
+</html>
